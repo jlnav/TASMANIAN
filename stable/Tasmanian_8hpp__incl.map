@@ -1,0 +1,52 @@
+<map id="Config/Tasmanian.hpp" name="Config/Tasmanian.hpp">
+<area shape="rect" id="node1" title="Master header to include all modules." alt="" coords="334,5,486,32"/>
+<area shape="rect" id="node2" href="$TasmanianAddons_8hpp_source.html" title=" " alt="" coords="333,80,487,107"/>
+<area shape="rect" id="node3" href="$tsgLoadUnstructuredPoints_8hpp_source.html" title=" " alt="" coords="79,155,285,181"/>
+<area shape="rect" id="node44" href="$tsgMPISampleDream_8hpp_source.html" title=" " alt="" coords="324,155,496,181"/>
+<area shape="rect" id="node50" href="$tsgExoticQuadrature_8hpp_source.html" title=" " alt="" coords="527,229,693,256"/>
+<area shape="rect" id="node4" href="$tsgLoadNeededValues_8hpp_source.html" title=" " alt="" coords="5,304,183,331"/>
+<area shape="rect" id="node5" href="$tsgAddonsCommon_8hpp_source.html" title=" " alt="" coords="310,453,473,480"/>
+<area shape="rect" id="node6" title=" " alt="" coords="10,528,79,555"/>
+<area shape="rect" id="node7" title=" " alt="" coords="103,528,162,555"/>
+<area shape="rect" id="node8" title=" " alt="" coords="186,528,245,555"/>
+<area shape="rect" id="node9" title=" " alt="" coords="269,528,396,555"/>
+<area shape="rect" id="node10" title=" " alt="" coords="421,528,482,555"/>
+<area shape="rect" id="node11" title=" " alt="" coords="507,528,572,555"/>
+<area shape="rect" id="node12" href="$TasmanianDREAM_8hpp_source.html" title=" " alt="" coords="596,528,755,555"/>
+<area shape="rect" id="node43" title=" " alt="" coords="779,528,833,555"/>
+<area shape="rect" id="node13" href="$tsgDreamSample_8hpp_source.html" title=" " alt="" coords="481,603,629,629"/>
+<area shape="rect" id="node41" href="$tsgDreamLikelyGaussian_8hpp_source.html" title=" " alt="" coords="697,603,891,629"/>
+<area shape="rect" id="node14" href="$tsgDreamState_8hpp_source.html" title=" " alt="" coords="403,677,537,704"/>
+<area shape="rect" id="node39" href="$tsgDreamCoreRandom_8hpp_source.html" title=" " alt="" coords="197,677,378,704"/>
+<area shape="rect" id="node40" href="$tsgDreamCorePDF_8hpp_source.html" title=" " alt="" coords="562,677,719,704"/>
+<area shape="rect" id="node15" href="$tsgDreamEnumerates_8hpp_source.html" title=" " alt="" coords="553,752,728,779"/>
+<area shape="rect" id="node16" title=" " alt="" coords="536,827,601,853"/>
+<area shape="rect" id="node17" href="$TasmanianSparseGrid_8hpp_source.html" title=" " alt="" coords="625,827,800,853"/>
+<area shape="rect" id="node18" href="$tsgGridGlobal_8hpp_source.html" title=" " alt="" coords="396,901,523,928"/>
+<area shape="rect" id="node35" href="$tsgGridLocalPolynomial_8hpp_source.html" title=" " alt="" coords="557,976,741,1003"/>
+<area shape="rect" id="node36" href="$tsgGridWavelet_8hpp_source.html" title=" " alt="" coords="705,901,841,928"/>
+<area shape="rect" id="node38" href="$tsgGridFourier_8hpp_source.html" title=" " alt="" coords="873,901,1001,928"/>
+<area shape="rect" id="node19" href="$tsgGridSequence_8hpp_source.html" title=" " alt="" coords="386,976,533,1003"/>
+<area shape="rect" id="node34" href="$tsgCacheLagrange_8hpp_source.html" title=" " alt="" coords="205,976,361,1003"/>
+<area shape="rect" id="node20" href="$tsgGridCore_8hpp_source.html" title=" " alt="" coords="590,1051,707,1077"/>
+<area shape="rect" id="node21" href="$tsgDConstructGridGlobal_8hpp_source.html" title=" " alt="" coords="337,1125,531,1152"/>
+<area shape="rect" id="node29" href="$tsgCudaLoadStructures_8hpp_source.html" title=" " alt="" coords="766,1125,950,1152"/>
+<area shape="rect" id="node32" href="$tsgHierarchyManipulator_8hpp_source.html" title=" " alt="" coords="555,1125,742,1152"/>
+<area shape="rect" id="node22" title=" " alt="" coords="300,1200,389,1227"/>
+<area shape="rect" id="node23" href="$tsgIndexManipulator_8hpp_source.html" title=" " alt="" coords="414,1200,577,1227"/>
+<area shape="rect" id="node24" href="$tsgIndexSets_8hpp_source.html" title=" " alt="" coords="285,1424,409,1451"/>
+<area shape="rect" id="node26" href="$tsgOneDimensionalWrapper_8hpp_source.html" title=" " alt="" coords="391,1275,599,1301"/>
+<area shape="rect" id="node25" href="$tsgIOHelpers_8hpp_source.html" title=" " alt="" coords="376,1499,500,1525"/>
+<area shape="rect" id="node27" href="$tsgHardCodedTabulatedRules_8hpp_source.html" title=" " alt="" coords="385,1349,606,1376"/>
+<area shape="rect" id="node28" href="$tsgCoreOneDimensional_8hpp_source.html" title=" " alt="" coords="434,1424,623,1451"/>
+<area shape="rect" id="node30" href="$tsgAcceleratedDataStructures_8hpp_source.html" title=" " alt="" coords="747,1200,969,1227"/>
+<area shape="rect" id="node31" href="$tsgAcceleratedHandles_8hpp_source.html" title=" " alt="" coords="767,1275,949,1301"/>
+<area shape="rect" id="node33" href="$tsgRuleLocalPolynomial_8hpp_source.html" title=" " alt="" coords="630,1349,817,1376"/>
+<area shape="rect" id="node37" href="$tsgRuleWavelet_8hpp_source.html" title=" " alt="" coords="765,976,903,1003"/>
+<area shape="rect" id="node42" href="$tsgDreamLikelihoodCore_8hpp_source.html" title=" " alt="" coords="744,677,935,704"/>
+<area shape="rect" id="node45" href="$tsgMPIConstructGrid_8hpp_source.html" title=" " alt="" coords="325,229,495,256"/>
+<area shape="rect" id="node46" href="$tsgMPIScatterDream_8hpp_source.html" title=" " alt="" coords="207,304,378,331"/>
+<area shape="rect" id="node48" href="$tsgConstructSurrogate_8hpp_source.html" title=" " alt="" coords="402,304,581,331"/>
+<area shape="rect" id="node47" href="$tsgMPIScatterGrid_8hpp_source.html" title=" " alt="" coords="218,379,373,405"/>
+<area shape="rect" id="node49" href="$tsgCandidateManager_8hpp_source.html" title=" " alt="" coords="399,379,573,405"/>
+</map>
